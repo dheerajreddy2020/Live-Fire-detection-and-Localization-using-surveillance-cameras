@@ -1,0 +1,12 @@
+Capstone -2 AIDI-11848 
+
+Project Warmup-GitHub Link 
+
+Dheeraj Reddy  | 100811270 | - Tech lead 
+Purnima Yadav | 100800499 
+Ayush Parolia | 100799278 
+Ramesh Krishna | 100766763
+
+Date : February 1, 2021
+
+https://github.com/dheerajreddy2020/Live-Fire-detection-and-Localization-using-surveillance-cameras.git 
