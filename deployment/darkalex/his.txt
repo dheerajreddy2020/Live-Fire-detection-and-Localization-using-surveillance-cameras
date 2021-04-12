@@ -1,0 +1,58 @@
+    1  sudo apt-get install xapps
+    2  xclock
+    3  sudo apt install x11-apps
+    4  xclock
+    5  cd darkalex/
+    6  ls
+    7  python3 darknet_video.py --input=test.mp4 --out_filename="outputrk.mp4" --weights=fire.weights --config_file fire.cfg --data=coco.data
+    8  python3 darknet_video.py --input=test.mp4 --out_filename="outputrk.mp4" --weights=fire.weights --config_file fire.cfg --data=coco.data --dont_show
+    9  ./darknet -h
+   10  ./darknet detect coco.data fire.cfg fire.weights fire.jpg
+   11  python3 darknet_video.py --input=test.mp4 --out_filename="outputrk.avi" --weights=fire.weights --config_file fire.cfg --data=coco.data --dont_show
+   12  ./darknet detect coco.data fire.cfg fire.weights fire_flames.jpg
+   13  ./darknet detect coco.data fire.cfg fire.weights fire_flames.jpg --dont_show
+   14  history > his.txt
+   15  ./darknet detect coco.data yolov4_custom_test.cfg fire.weights fire_flames.jpg
+   16  python3 darknet_video.py --input=test.mp4 --out_filename="outputrk.avi" --weights=fire.weights --config_file fire.cfg --data=coco.data --dont_show
+   17  ls
+   18  mkdir webapp
+   19  cd webapp/
+   20  ls
+   21  cd ..
+   22  rm -R webapp/
+   23  nano webapp.py
+   24  pip3 install streamlit
+   25  ls
+   26  git add . 
+   27  git status
+   28  python3 webapp.py 
+   29  pip install streamlit
+   30  pip3 install streamlit
+   31  streamlit webapp.py 
+   32  pip3 install --upgrade protobuf
+   33  streamlit webapp.py 
+   34  streamlit webapp
+   35  pythyon3 webapp.py 
+   36  python3 webapp.py 
+   37  streamlit run webapp.py
+   38  rm webapp.py 
+   39  nano webapp.py
+   40  streamlit run webapp.py
+   41  nano webapp.py 
+   42  streamlit run webapp.py
+   43  ls
+   44  streamlit run webapp.py
+   45  clear
+   46  streamlit run webapp.py
+   47  ls
+   48  cd tempvideos/
+   49  ls
+   50  rm t*
+   51  ls
+   52  clear
+   53  ls
+   54  cd ..
+   55  ls
+   56  git add . 
+   57  git status
+   58  history > his.txt
