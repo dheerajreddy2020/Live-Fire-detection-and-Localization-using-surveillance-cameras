@@ -7,6 +7,6 @@ Purnima Yadav | 100800499
 Ayush Parolia | 100799278 
 Ramesh Krishna | 100766763
 
-Date : March 26, 2021
+Date : April 11, 2021
 
 https://github.com/dheerajreddy2020/Live-Fire-detection-and-Localization-using-surveillance-cameras.git 
